@@ -129,3 +129,5 @@ yandex.com, 40427798, RESELLER
 yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
+telaria.com, , RESELLER, 1a4e959a1b50034a
+tremorhub.com, , RESELLER, 1a4e959a1b50034a
