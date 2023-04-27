@@ -129,3 +129,4 @@ yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 contextweb.com, 562944, RESELLER, 89ff185a4c4e857c
 Pubmatic.com, 162882, RESELLER
+xandr.com, 13799, RESELLER
