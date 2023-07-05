@@ -222,3 +222,5 @@ criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-063105, RESELLER, 9fac4a4a87c2a44f
 google.com, pub-8990839506028273, RESELLER
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
+google.com, pub-8990839506028273, RESELLER, f08c47fec0942fa0
+Xapads.com, 155860, RESELLER
