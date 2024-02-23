@@ -22,7 +22,7 @@ appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
 appnexus.com, 2764, RESELLER, f5ab79cb980f11d1
 appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
-bidease.com, exchange-20, RESELLER
+bidease.com, bidease_seller_20, RESELLER
 bidmachine.io, 113, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 162, RESELLER
@@ -146,6 +146,7 @@ themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 thunder-monetize.com, 3962740416, RESELLER
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
 triplelift.com, 13883, RESELLER, 6c33edb13117fd86
 unity.com, 3536118, DIRECT, 96cabb5fbdde37a7
 velismedia.com, 1137, RESELLER
@@ -155,6 +156,7 @@ video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 819070080, RESELLER
 video.unrulymedia.com, 995298565, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
 vidoomy.com, 7646534, RESELLER
