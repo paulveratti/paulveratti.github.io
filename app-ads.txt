@@ -176,3 +176,5 @@ admixplay.com, 2012, RESELLER
 improvedigital.com, 1604, RESELLER
 improvedigital.com, 2052, RESELLER
 smartclip.net, 13564, RESELLER
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+smaato.com, 1100055750, RESELLER, 07bcf65f187117b4
