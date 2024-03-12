@@ -78,6 +78,8 @@ google.com, pub-8990839506028273, RESELLER
 
 google.com, pub-8990839506028273, RESELLER, f08c47fec0942fa0
 
+ImproveDigital, 2343, RESELLER
+
 improvedigital.com, 1604, RESELLER
 
 improvedigital.com, 2052, RESELLER
@@ -102,7 +104,7 @@ inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
 
 inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
 
-kidoz.net, 19692013, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
 
 lemmatechnologies.com, 362, RESELLER, 7829010c5bebd1fb
 
@@ -359,5 +361,3 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 
 yeahmobi.com, 5135195, RESELLER
-
-ImproveDigital, 2343, RESELLER
