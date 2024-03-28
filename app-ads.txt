@@ -46,6 +46,8 @@ appnexus.com, 7353, RESELLER, f5ab79cb980f11d1
 
 appnexus.com, 9393, RESELLER, f5ab79cb980f11d1
 
+betweendigital.com, 45827, RESELLER
+
 bidease.com, bidease_seller_20, RESELLER
 
 bidmachine.io, 113, RESELLER
@@ -56,9 +58,13 @@ bidmachine.io, 162, RESELLER
 
 bidmachine.io, 67, RESELLER
 
+contextweb.com, 159668, RESELLER, 5d62403b186f2ace
+
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
+
+contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
 
 contextweb.com, 562842, RESELLER, 89ff185a4c4e857c
 
@@ -78,11 +84,11 @@ google.com, pub-8990839506028273, RESELLER
 
 google.com, pub-8990839506028273, RESELLER, f08c47fec0942fa0
 
-ImproveDigital, 2343, RESELLER
-
 improvedigital.com, 1604, RESELLER
 
 improvedigital.com, 2052, RESELLER
+
+improvedigital.com, 2414, RESELLER
 
 indexexchange.com, 186081, RESELLER, 50b1c356f2c5c8fc
 
@@ -193,8 +199,6 @@ pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
-
-Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 
@@ -350,9 +354,9 @@ xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 
-Xapads.com, 117219, RESELLER
+xapads.com, 117219, RESELLER
 
-Xapads.com, 155860, RESELLER
+xapads.com, 155860, RESELLER
 
 yandex.com, 40427798, RESELLER
 
@@ -361,11 +365,5 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 
 yeahmobi.com, 5135195, RESELLER
-
-betweendigital.com, 45827, RESELLER
-
-contextweb.com, 159668, RESELLER, 5d62403b186f2ace
-
-contextweb.com, 562827, RESELLER, 89ff185a4c4e857c
 
 zmaticoo.com, 5135195, RESELLER
