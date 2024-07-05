@@ -122,3 +122,4 @@ appnexus.com, 15629, RESELLER
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+zmaticoo.com, 5135704, RESELLER
